@@ -1,4 +1,4 @@
-import '../styles/globals.scss'
+import '../styles/globals.css'
 import 'tailwindcss/tailwind.css'
 import { Layout } from '../Components'
 import React, { useState, useEffect } from 'react'
