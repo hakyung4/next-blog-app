@@ -1,5 +1,6 @@
 # Next.js Blog Application
 
-I created this blog application to post and share whatever I want.
+I created this blog web application to post and share whatever I want.
+Built with Next.js and tailwind CSS.
 
-*In order to update the website, I have to push an empty commit.*
+*In order to fetch and display new posts, I have to push an empty commit.*
