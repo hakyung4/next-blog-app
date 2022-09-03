@@ -8,4 +8,5 @@ Built with Next.js and tailwind CSS.
 *Posts written in either Korean or English.*
 ```
 git commit --allow-empty -m "push to prod"
+git push origin main
 ```
